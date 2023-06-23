@@ -19,8 +19,8 @@
 
 <div align="center">
   <a href="https://github.com/leefell">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leefell&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=DC143C&icon_color=DC143C"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leefell&layout=compact&langs_count=7&theme=midnight-purple&title_color=DC143C&icon_color=DC143C""/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leefell&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=DC143C&icon_color=DC143C"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leefell&layout=compact&langs_count=7&theme=midnight-purple&title_color=DC143C&icon_color=DC143C""/>
 </div>
 
 ### Tecnologias que estou constantemente estudando
