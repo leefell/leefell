@@ -49,9 +49,6 @@ I'm constantly chasing knowledge about coding and personal growth, always updati
   <img align="center" alt="VisuStudioC" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </div>
 
-### Currently working on: 
-ASP.NET Core Web API
-
 ### Explore Meus Repositórios
 🇧🇷 Leve seu tempo olhando meus repositórios e sinta-se à vontade para entrar em contato se tiver alguma dúvida ou ideia de colaboração.
 
