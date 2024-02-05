@@ -24,14 +24,10 @@
 </div>
 
 ### About Me
+Currently studying Information Systems at the Federal Institute of São Paulo. <br>
+Constantly chasing knowledge about coding and personal growth, always updating and learning.
 
-🇧🇷 Atualmente cursando Sistemas de Informação no Instituto Federal de São Paulo.
-
-🇺🇸 Currently studying Information Systems at the Federal Institute of São Paulo.
-
-I'm constantly chasing knowledge about coding and personal growth, always updating and learning.
-
-### Technologies
+### Stacks
 
 <div style="display: inline_block">
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -41,17 +37,3 @@ I'm constantly chasing knowledge about coding and personal growth, always updati
   <img align="center" alt="dotNet" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="database" src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
-
-#### IDEs I'm Familiar With
-<div style="display: inline_block">
-  <img align="center" alt="NetBeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
-  <img align="center" alt="VisuStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img align="center" alt="VisuStudioC" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-</div>
-
-### Explore Meus Repositórios
-🇧🇷 Leve seu tempo olhando meus repositórios e sinta-se à vontade para entrar em contato se tiver alguma dúvida ou ideia de colaboração.
-
-🇺🇸 Take your time looking at my repos and feel free to reach out if you have any questions or collaboration ideas.
-
-[Repos 😉👨🏻‍💻](https://github.com/leefell?tab=repositories)
