@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://github.com/leefell/leefell/blob/main/header.png" />
+  <img width="100%" src="https://github.com/leefell/leefell/blob/main/header2.png" />
 </p>
 
 <h2 align="center">"The only way to do great work is to love what you do."</h2>
