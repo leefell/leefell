@@ -2,7 +2,7 @@
   <img width="100%" src="https://github.com/leefell/leefell/blob/main/header2.png" />
 </p>
 
-<h2 align="center">"The only way to do great work is to love what you do."</h2>
+<h3 align="center">"The only way to do great work is to love what you do."</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandre-augusto-dos-santos-feltrin-ab637926b/">
