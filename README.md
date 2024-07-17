@@ -8,7 +8,8 @@
 </a>
 
 ## About Me
-Currently studying Information Systems at the Federal Institute of São Paulo. Passionate about coding and personal growth.
+Atualmente estou estudando JavaScript com intuito de me tornar full-stack. <br>
+Tenho experiência com: C++, C#, Java, Python e Golang.
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/alexandre-augusto-dos-santos-feltrin-ab637926b/">
