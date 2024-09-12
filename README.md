@@ -8,10 +8,11 @@
 </a>
 
 ## About Me
-Atualmente estou estudando JavaScript com intuito de me tornar full-stack. <br>
-Tenho experiência com: C++, C#, Java, Python e Golang.
+Meu nome é Alexandre, tenho 19 anos, gosto de estudar sobre desenvolvimento de Software, e treinar. <br>
+Venho estudando sobre desenvolvimento diariamente e já tive contato seja na faculdade ou em cursos com as seguintes tecnologias: <br>
+C++, C#, Python, Java, MySQL, Postgres, Golang, HTML, CSS, Javascript e recentemente NodeJS e React. <br>
 
-## Contact Me
+### Sinta-se à vontade para me contatar para colaborações ou oportunidades!
 <a href="https://www.linkedin.com/in/alexandre-augusto-dos-santos-feltrin-ab637926b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
