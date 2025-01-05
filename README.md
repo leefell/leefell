@@ -8,7 +8,7 @@
 </a>
 
 ## About Me
-Meu nome é Alexandre, tenho 19 anos, gosto de estudar sobre desenvolvimento de Software, e treinar. <br>
+Meu nome é Alexandre, gosto de ler, estudar sobre desenvolvimento de Software e treinar. <br>
 Venho estudando sobre desenvolvimento diariamente e já tive contato seja na faculdade ou em cursos com as seguintes tecnologias: <br>
 C++, C#, Python, Java, MySQL, Postgres, Golang, HTML, CSS, Javascript e recentemente NodeJS e React. <br>
 
